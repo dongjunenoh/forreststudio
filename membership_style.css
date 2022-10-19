@@ -49,9 +49,8 @@ body{font-family: 'Pretendard-Regular'; font-size: 18px; line-height: 30px; back
 .nav li:hover .sub{
     display: block;
 }
-
-.mb_bn{width: 100%; overflow: hidden; display: block;}
-
+.mb_mn img{width: 100%; overflow: hidden; display: block;}
+.mb_bn {width: 100%; overflow: hidden; display: block;}
 .box2{width: 1280px; margin: 150px auto; text-align: center; position: relative; overflow: hidden;}
 .nav3 li {float: left; width: 360px; padding: 33px;}
 .nav3 li p a{border: solid 1px #ccc;
